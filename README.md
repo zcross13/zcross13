@@ -9,8 +9,8 @@ I've been learning code for the past 2 years. I decided to make a career shift f
 * 🌍  I'm based in Houston, TX
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio.com)
 * ✉️  You can contact me at [zalicross24@gmail.com](mailto:zalicross24@gmail.com)
-* 🚀  I'm currently working on [Book Blog](http://bookblog.com)
-* 🧠  I'm learning Typescript & Linux
+* 🚀  I'm currently working on Task Manager App
+* 🧠  I'm learning Python & Typescript
 * 🤝  I'm open to collaborating on Web application
 * ⚡  I love to read and game in my free time.
 
